@@ -1,2 +1,2 @@
-# Funcion.cpp
- Programa para dibujar  la  funcion y = x^3.
+# FuncionGrafica.cpp
+ Programa para dibujar  la  funcion ***y = x^3.
